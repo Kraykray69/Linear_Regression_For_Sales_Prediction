@@ -1,2 +1,2 @@
 # Linear_Regression_For_Sales_Prediction
-Sales prediction using data analysis
+Linear regression for sales prediction in data science utilizes mathematical algorithms to analyze historical sales data and identify patterns and relationships between various factors influencing sales. By employing a linear equation, the model seeks to predict future sales based on input variables like advertising spending, market trends, and promotional activities. Through this approach, businesses can gain valuable insights into the impact of different factors on sales performance, enabling informed decision-making and the optimization of marketing strategies for enhanced revenue generation
